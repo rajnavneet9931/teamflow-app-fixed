@@ -1,0 +1,7 @@
+/* App-level reset — remove Vite boilerplate styles */
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: initial;
+  max-width: none;
+}
